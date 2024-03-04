@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfredmagat23
 - 👀 I’m interested in everything 
-- 🌱 I’m currently learning VB.net/PHP/MYsql Workbench/ and getting familiar with github
+- 🌱 I’m currently learning Pyhton/ HTML, CSS, JS / and getting familiar with github
 - 💞️ I’m looking to collaborate on (soon)
 - 📫 How to reach me alfredmagat@gmail.com
 
