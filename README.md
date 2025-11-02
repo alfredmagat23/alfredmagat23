@@ -62,13 +62,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredmagat23&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredmagat23&theme=onedark" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfredmagat23&theme=onedark&margin-w=10&margin-h=10&column=6" alt="alfredmagat23 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alfredmagat23&theme=onedark&margin-w=10&margin-h=10&column=6&exclude=Stars,Issues,PullRequest,Reviews" alt="alfredmagat23 trophies" />
   </a>
 </p>
 
