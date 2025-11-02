@@ -10,7 +10,7 @@
 <h3 align="left">📬 How to reach me:</h3>
 
 <p align="left">
-  <img align="right" src="https://c.tenor.com/-tVryjewiAEAAAAC/tenor.gif" width="250" height="250" alt="Chaeyoung GIF">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdmeGU1b2Y2NnB6eWxkNXgzcnI2MzhjbmRlbjFkYnVmZzkxMjBtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="250" height="250" alt="Chaeyoung GIF">
   <a href="mailto:alfredmagat.dev@gmail.com">alfredmagat.dev@gmail.com</a>
 </p>
 
