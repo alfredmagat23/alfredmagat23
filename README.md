@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredmagat23&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredmagat23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
