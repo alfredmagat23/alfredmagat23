@@ -8,10 +8,12 @@
 ---
 
 <h3 align="left">📬 How to reach me:</h3>
+
 <p align="left">
-  <img align="right" src="https://media1.tenor.com/m/-tVryjewiAEAAAAC/chaeyoung-chaeyoung-twice.gif" width="120" alt="Chaeyoung GIF" />
-  alfredmagat.dev@gmail.com
+  <img align="right" src="https://media1.tenor.com/m/-tVryjewiAEAAAAC/chaeyoung-chaeyoung-twice.gif" width="120" alt="Chaeyoung GIF">
+  <a href="mailto:alfredmagat.dev@gmail.com">alfredmagat.dev@gmail.com</a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,7 +73,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alfredmagat23&theme=onedark&margin-w=10&margin-h=10&column=6&exclude=Stars,Issues,PullRequest,Reviews" alt="alfredmagat23 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alfredmagat23&theme=onedark&margin-w=10&margin-h=10&column=6&title=-Stars,-Issues,-PullRequest,-Reviews" alt="alfredmagat23 trophies" />
   </a>
 </p>
 
