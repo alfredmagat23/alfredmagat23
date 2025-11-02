@@ -8,7 +8,10 @@
 ---
 
 <h3 align="left">📬 How to reach me:</h3>
-<p align="left">alfredmagat.dev@gmail.com</p>
+<p align="left">
+  <img align="right" src="https://media1.tenor.com/m/-tVryjewiAEAAAAC/chaeyoung-chaeyoung-twice.gif" width="120" alt="Chaeyoung GIF" />
+  alfredmagat.dev@gmail.com
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,8 +60,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredmagat23&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredmagat23&show_icons=true&locale=en" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredmagat23&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredmagat23&show_icons=true&locale=en&theme=tokyonight" height="160" alt="GitHub Stats" />
 </p>
 
 <p align="center">
