@@ -10,7 +10,7 @@
 <h3 align="left">📬 How to reach me:</h3>
 
 <p align="left">
-  <img align="right" src="https://media1.tenor.com/m/-tVryjewiAEAAAAC/chaeyoung-chaeyoung-twice.gif" width="120" alt="Chaeyoung GIF">
+  <img align="right" src="[https://media1.tenor.com/m/-tVryjewiAEAAAAC/chaeyoung-chaeyoung-twice.gif](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)" width="120" alt="Chaeyoung GIF">
   <a href="mailto:alfredmagat.dev@gmail.com">alfredmagat.dev@gmail.com</a>
 </p>
 
