@@ -5,6 +5,8 @@
 - 📫 How to reach me alfredmagat@gmail.com
 - i just want oop algorithm nothing else lol
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 alfredmagat23/alfredmagat23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
